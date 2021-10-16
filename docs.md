@@ -1,10 +1,9 @@
-<!-- WOODPECKER_PLUGIN_DOCS: This file has to follow the plugins-doc template syntax. -->
-
 ---
 name: S3 Plugin
 description: The S3 plugin can upload files and build artifacts to a S3 bucket, or S3-compatible bucket such as Minio.
 hide_table_of_contents: true
 ---
+<!-- WOODPECKER_PLUGIN_DOCS: This file has to follow the plugins-doc template syntax. -->
 
 # S3
 
